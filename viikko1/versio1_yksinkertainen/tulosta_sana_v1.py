@@ -1,1 +1,1 @@
-print ("hei maailma")
+print ("123")
